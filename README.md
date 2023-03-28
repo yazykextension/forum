@@ -52,7 +52,3 @@ To help us better understand the issue you're experiencing, please include the f
 3. **Engage in the discussion** - After you've created the issue, we'll review it and respond as quickly as possible. We may ask you for additional information or clarification, or we may provide you with a solution or workaround. Please engage in the discussion and provide feedback, so that we can work together to resolve the issue.
 
 Thank you for helping us improve Yazik Language Learning with Netflix!
-
-
-
-Icon Credit Credit: <a href="https://iconscout.com/contributors/icon-54">Icon 54</a>
