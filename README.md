@@ -20,7 +20,7 @@ To use Yazik, simply install the extension from the Chrome Web Store and start w
 
 ## Need Help or Have Questions?
 
-If you need help or have any questions about using Yazik Language Learning with Netflix, we invite you to visit the Discussions section of our GitHub repository. There, you can browse through past discussions or start a new one if you can't find an answer to your question.
+If you need help or have any questions about using Yazik, we invite you to visit the Discussions section of our GitHub repository. There, you can browse through past discussions or start a new one if you can't find an answer to your question.
 
 ## Report an Issue
 
@@ -51,6 +51,6 @@ To help us better understand the issue you're experiencing, please include the f
 
 3. **Engage in the discussion** - After you've created the issue, we'll review it and respond as quickly as possible. We may ask you for additional information or clarification, or we may provide you with a solution or workaround. Please engage in the discussion and provide feedback, so that we can work together to resolve the issue.
 
-Thank you for helping us improve Yazik Language Learning with Netflix!
+Thank you for helping us improve Yazik!
 
 Icon Credit Credit: <a href="https://iconscout.com/contributors/icon-54">Icon 54</a>
