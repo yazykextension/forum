@@ -22,7 +22,7 @@ To use Yazik Language Learning with Netflix, simply install the extension from t
 
 If you need help or have any questions about using Yazik Language Learning with Netflix, we invite you to visit the Discussions section of our GitHub repository. There, you can browse through past discussions or start a new one if you can't find an answer to your question.
 
-## Report a Bug
+## Report an Issue
 
 If you encounter a bug or issue while using Yazik, we encourage you to report it to us. Here are the steps you can follow to describe the bug:
 
