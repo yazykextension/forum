@@ -6,7 +6,7 @@
 
 
 
-# Yazik Language Learning with Netflix Chrome Extension
+# Yazik - Language Learning with Netflix - Chrome Extension
 
 Welcome to Yazik Language Learning with Netflix, a Chrome extension that enables a double captions system with translation popups, making it easier for you to learn a new language while watching your favorite Netflix shows and movies.
 
