@@ -16,7 +16,7 @@ Our extension provides a simple and effective way to learn a new language while 
 
 ## How to Use Yazyk
 
-To use Yazyk, simply install the extension from the Chrome Web Store and start watching your favorite Netflix shows and movies. Our extension will automatically detect the language you're watching and provide you with double captions and translation popups as needed.
+To use Yazyk, simply install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/yasik-netflix-language-le/hbghjfaenddmdpbkobgdcgkmcdcdjjko?hl=en-GB&authuser=1) and start watching your favorite Netflix shows and movies. Our extension will automatically detect the language you're watching and provide you with double captions and translation popups as needed.
 
 ## Need Help or Have Questions?
 
